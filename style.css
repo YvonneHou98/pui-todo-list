@@ -1,0 +1,25 @@
+li {
+    list-style: none;
+}
+
+#todo-list {
+    padding: 0px;
+}
+
+.complete {
+    text-decoration: line-through;
+    color:gray;
+}
+
+.todo-list-item {
+    font-family: 'Times New Roman', Times, serif;
+    width: 300px;
+}
+
+.delete {
+    float: right;
+}
+
+#new-list-item {
+    width: 220px;
+}
